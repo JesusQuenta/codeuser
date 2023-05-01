@@ -98,3 +98,9 @@
     align-items: center;
     text-transform: capitalize;
 }
+
+@media (min-width:600px) {
+    .container {
+        width: 40%;
+    }
+}
